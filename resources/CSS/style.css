@@ -1,0 +1,35 @@
+body {background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1 {font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  color: blue;
+  align: center;
+}
+
+video {align-content: center;
+
+}
+
+h3 {color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  align: center;
+}
+
+h2 {color: white;
+font-weight: 300;
+font-size: 42px;
+
+}
+p {color: Gray;
+font-size: 21px;
+
+}
+h4 {color: Gray;
+  font-size: 21px;
+text-align: right;
+}
